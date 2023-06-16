@@ -11,7 +11,7 @@ Parametric studies are required to detect instability regimes of dynamic systems
 
 
 <p align="center">
-<img align="middle" src="./../images/paperImage0.png" alt="1D Adaptive proceudre with SFVCT" width="550" height="500" />
+<img align="middle" src="./../images/paperImage0.png" alt="1D Adaptive proceudre with SFVCT" width="596" height="794" />
 </p>
 
 
