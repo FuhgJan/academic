@@ -15,18 +15,6 @@ I’m an interpretive social scientist by training with a background in the huma
 TEST
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
 
- <style> #RecentNews li>p {display: inline;} </style>
-
-    {% assign news = (site.data.news | sort: 'date') | reverse %} {% for n in news %}
-    {{ n.date | date: "%B %-d, %Y" }}: {{ n.description | markdownify }}
-    {% endfor %} 
-
-UWDB Newsletters
-
-    Summer 18
-    [Winter 18]({{ site.baseurl }}/newsletters/winter18.pdf)
-    [Summer 17]({{ site.baseurl }}/newsletters/summer17.pdf)
-    [Fall 16]({{ site.baseurl }}/newsletters/fall16.pdf)
 
 
 
