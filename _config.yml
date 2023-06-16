@@ -86,7 +86,7 @@ author:
   bio              : "Incoming Assistant Prof. at UT Austin"
   location         : "Austin, TX"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vbdDJ6cAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Jan-Fuhg"# example: "https://www.researchgate.net/profile/yourprofile"
