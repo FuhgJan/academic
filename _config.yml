@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jan N. Fuhg"
+title                    : "Jan Ni. Fuhg"
 title_separator          : "-"
-name                     : &name "Jan N. Fuhg"
+name                     : &name "Jan Ni. Fuhg"
 description              : &description "Incoming Assistant Prof. at UT Austin"
 url                      : https://fuhgjan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
