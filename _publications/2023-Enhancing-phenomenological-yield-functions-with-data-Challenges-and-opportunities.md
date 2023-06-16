@@ -12,5 +12,5 @@ The formulation of history-dependent material laws has been a significant resear
 [Download paper here](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146949887&doi=10.1016%2fj.euromechsol.2023.104925&partnerID=40&md5=33e77d99282060e20c1ef5051a814895)
 
 <p align="center">
- <img align="middle" src="./../images/paperImage0.png alt="Overview" width="596" height="794" />
+ <img align="middle" src="./../images/paperImage0.png" alt="Overview" width="596" height="794" />
 </p>
