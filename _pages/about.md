@@ -12,15 +12,8 @@ Hi! I’m Jan, an incoming Assistant Professor at The University of Texas at Aus
 
 I’m an interpretive social scientist by training with a background in the humanities, but I have just enough expertise in computer science and data science to make trouble. My research, teaching, and broader service are all grounded in the idea that science and technology are inherently social activities, which are directed, operated, and maintained in certain ways (and not in other ways), by people in and outside of institutions.
 
-
+TEST
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
-
-
-
-
-## News
-======
-<div style="overflow: auto; height:150pt; width:100%;">
 
  <style> #RecentNews li>p {display: inline;} </style>
 
@@ -36,6 +29,13 @@ UWDB Newsletters
     [Fall 16]({{ site.baseurl }}/newsletters/fall16.pdf)
 
 
+
+
+## News
+======
+<div style="overflow: auto; height:150pt; width:100%;">
+
+aa
 </div>
 
 
