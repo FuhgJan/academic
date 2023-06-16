@@ -22,23 +22,19 @@ This is the front page of a website that is powered by the [academicpages templa
 ======
 <div style="overflow: auto; height:150pt; width:100%;">
 
-<style>
-  table#example-table td {
-    border: none;
-  }
-</style>
-<table id="example-table">
-  <tbody>
-    <tr>
-      <td>Column One</td>
-      <td>Column One</td>
-    </tr>
-    <tr>
-      <td>Content of column one</td>
-      <td>Content of column two</td>
-    </tr>
-  </tbody>
-</table>
+ <style> #RecentNews li>p {display: inline;} </style>
+
+    {% assign news = (site.data.news | sort: 'date') | reverse %} {% for n in news %}
+    {{ n.date | date: "%B %-d, %Y" }}: {{ n.description | markdownify }}
+    {% endfor %} 
+
+UWDB Newsletters
+
+    Summer 18
+    [Winter 18]({{ site.baseurl }}/newsletters/winter18.pdf)
+    [Summer 17]({{ site.baseurl }}/newsletters/summer17.pdf)
+    [Fall 16]({{ site.baseurl }}/newsletters/fall16.pdf)
+
 
 </div>
 
