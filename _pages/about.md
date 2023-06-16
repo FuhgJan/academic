@@ -15,32 +15,30 @@ I’m an interpretive social scientist by training with a background in the huma
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+
+
+
 ## News
 ======
 <div style="overflow: auto; height:150pt; width:100%;">
 
-* Nov 2017: Journal paper accepted on IEEE Systems Journal! Read the paper and get the code.
-
-  
-* Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
-
-* 
-* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code.
-* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
-
-* 
-* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code .
-* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
-
-* 
-* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code.
-* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
-
-* 
-* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code.
-* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
-
-* 
+<style>
+  table#example-table td {
+    border: none;
+  }
+</style>
+<table id="example-table">
+  <tbody>
+    <tr>
+      <td>Column One</td>
+      <td>Column One</td>
+    </tr>
+    <tr>
+      <td>Content of column one</td>
+      <td>Content of column two</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
