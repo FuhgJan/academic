@@ -15,9 +15,17 @@ This is the front page of a website that is powered by the [academicpages templa
 
 * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code [here]({{< ref "PAH2017ja.md" >}}).
 * **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
+* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code [here]({{< ref "PAH2017ja.md" >}}).
+* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
+* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code [here]({{< ref "PAH2017ja.md" >}}).
+* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
+* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code [here]({{< ref "PAH2017ja.md" >}}).
+* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
+* * **Nov 2017:** Journal paper accepted on IEEE Systems Journal! Read the paper and get the code [here]({{< ref "PAH2017ja.md" >}}).
+* **Oct 2017:** New PhD student has joined our group working on control and operation of combined HVDC and AC systems. Welcome XYZ!
 
 </div>
-&nbsp;
+
 
 
 A data-driven personal website
