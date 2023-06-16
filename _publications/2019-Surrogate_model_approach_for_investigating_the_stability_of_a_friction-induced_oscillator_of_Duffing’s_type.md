@@ -11,8 +11,7 @@ Parametric studies are required to detect instability regimes of dynamic systems
 
 
 <p align="center">
-<img align="middle" src="/../images/2023-Enhancing_phenomenological_yield_functions_with_data:_Challenges_and_opportunities.png" alt="1D Adaptive proceudre with SFVCT" width="550" height="500" />
+<img align="middle" src="/../images/2023-Enhancing_phenomenological_yield_functions_with_data%3A_Challenges_and_opportunities.png" alt="1D Adaptive proceudre with SFVCT" width="550" height="500" />
 </p>
-
 
 [Download paper here](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074435106&doi=10.1007%2fs11071-019-05281-2&partnerID=40&md5=20836c70da97e5889ec5be90d7e230c0)
