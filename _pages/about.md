@@ -20,8 +20,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 
 ## News
-======
-## 2023
+2023
 
   * 04/2023 - 
 
