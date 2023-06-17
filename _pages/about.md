@@ -22,7 +22,7 @@ The focus of my work lies in the intersection between computational physics and 
     
   * Our recent preprint about physics-informed data-driven constitutive modeling for viscoelastic materials can be found [here](https://arxiv.org/pdf/2304.13897.pdf)
 
-  * We recently released a preprint where we introduce the Deep Convolutional Ritz Method (DCRM) as a parametric PDE solver. For more information follow this [link] (https://arxiv.org/pdf/2206.04675.pdf)
+  * We recently released a preprint where we introduce the Deep Convolutional Ritz Method (DCRM) as a parametric PDE solver. For more information follow this [link](https://arxiv.org/pdf/2206.04675.pdf)
 
 
 
