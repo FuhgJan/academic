@@ -16,7 +16,6 @@ I am a Ph.D. student in Mechanical Engineering at Cornell University in the [Bou
 I have an M.Sc. and a B.Sc. in Computational Engineering from the Leibniz University Hannover, Germany. 
 
 
-
 ## Updates
 
   * 04/2023 - I am joining the Department of Aerospace Engineering & Engineering Mechanics at UT Austin as an Assistant Professor in January 2024.
