@@ -25,5 +25,8 @@ I have an M.Sc. and a B.Sc. in Computational Engineering from the Leibniz Univer
 
   * We recently released a preprint where we introduce the Deep Convolutional Ritz Method (DCRM) as a parametric PDE solver. For more information follow this [link](https://arxiv.org/pdf/2206.04675.pdf)
 
+## Open positions
+Multiple fully funded Ph.D. positions are available in my research group for fall 2024. The positions will be broadly in the area of physics-informed machine learning, computational mechanics, and computational statistics. Highly motivated students with Bachelor's or Master's degrees in Mechanical Engineering, Civil Engineering, Aerospace Engineering, or other relevant fields are encouraged to send me an email at <jf853@cornell.edu>. Please include your CV and (preliminary) transcripts.
+
 
 
