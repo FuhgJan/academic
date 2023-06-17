@@ -19,10 +19,11 @@ This is the front page of a website that is powered by the [academicpages templa
 
 
 
-## News
-2023
+## Updates
 
-  * 04/2023 - 
+  * 04/2023 - I am joining the Department of Aerospace Engineering & Engineering Mechanics at UT Austin as an Assistant Professor in January 2024.
+    
+  * Our recent preprint about physics-informed data-driven constitutive modeling for viscoelastic materials can be found [here](https://arxiv.org/pdf/2304.13897.pdf)
 
 
 
