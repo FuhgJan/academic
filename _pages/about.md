@@ -13,9 +13,9 @@ redirect_from:
 This solution allows you to add space in-between the images as well. It combines the best parts of all the existing solutions and doesn't add any ugly table borders.
 
 <p align="center">
-  <img alt="Light" src="../images/unet_ch_PINN_3.png" width="45%">
+  <img alt="Light" src="../_images/unet_ch_PINN_3.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="../images/unet_ch_PINN_3.png" width="45%">
+  <img alt="Dark" src="../_images/unet_ch_PINN_3.png" width="45%">
 </p>
 
 
