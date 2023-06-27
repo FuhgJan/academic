@@ -20,10 +20,12 @@ I am a Ph.D. student in Mechanical Engineering at Cornell University in the [Bou
 I have an M.Sc. and a B.Sc. in Computational Engineering from the Leibniz University Hannover, Germany. 
 
 <p align="center">
-  <img alt="L" src="academic/_images/unet_ch_PINN_3.png" width="45%">
+  <img alt="L" src="./../images//unet_ch_PINN_3.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="D" src="academic/_images/unet_ch_PINN_3.png" width="45%">
+  <img alt="D" src="./../images/unet_ch_PINN_3.png" width="45%">
 </p>
+
+
 
 
 ## Updates
