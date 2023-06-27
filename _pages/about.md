@@ -10,13 +10,6 @@ redirect_from:
 
 
 
-This solution allows you to add space in-between the images as well. It combines the best parts of all the existing solutions and doesn't add any ugly table borders.
-
-<p align="center">
-  <img alt="Light" src="../_images/unet_ch_PINN_3.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="../_images/unet_ch_PINN_3.png" width="45%">
-</p>
 
 
 Hi! I’m Jan, an incoming Assistant Professor at The University of Texas at Austin, Austin in the Department of Aerospace Engineering & Engineering Mechanics. 
@@ -25,6 +18,12 @@ The focus of my work lies in the intersection between computational physics and 
 
 I am a Ph.D. student in Mechanical Engineering at Cornell University in the [Bouklas Lab](https://blogs.cornell.edu/bouklaslab/) advised by Prof. Nikolaos Bouklas. 
 I have an M.Sc. and a B.Sc. in Computational Engineering from the Leibniz University Hannover, Germany. 
+
+<p align="center">
+  <img alt="L" src="../images/unet_ch_PINN_3.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="D" src="../images/unet_ch_PINN_3.png" width="45%">
+</p>
 
 
 ## Updates
