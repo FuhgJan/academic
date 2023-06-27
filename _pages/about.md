@@ -16,7 +16,7 @@ Hi! I’m Jan, an incoming Assistant Professor at The University of Texas at Aus
 
 The focus of my work lies in the intersection between computational physics and machine learning. 
 
-I am a Ph.D. student in Mechanical Engineering at Cornell University advised by Prof. Nikolaos Bouklas. 
+I am finishing my Ph.D. in Mechanical Engineering advised by Prof. Nikolaos Bouklas at Cornell University. 
 I have an M.Sc. and a B.Sc. in Computational Engineering from the Leibniz University Hannover, Germany. 
 
 
