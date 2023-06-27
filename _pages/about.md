@@ -21,11 +21,6 @@ I have an M.Sc. and a B.Sc. in Computational Engineering from the Leibniz Univer
 
 
 
-<p align="center">
-<img align="middle" src="./../images/unetchPINN3.png" alt="Overview556" width="596" height="794" />
-</p> 
-
-
 
 
 ## Updates
