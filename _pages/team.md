@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Team"
+permalink: /team/
 author_profile: true
 redirect_from:
   - /wordpress/cv/
