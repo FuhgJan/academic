@@ -3,10 +3,12 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Team"
+    url: /team/
+
   - title: "Publications"
     url: /publications/
     
-
 
   - title: "CV"
     url: /cv/
